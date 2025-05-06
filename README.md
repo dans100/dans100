@@ -4,9 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dans100&label=Profile%20views&color=0e75b6&style=flat" alt="dans100" /> </p>
 
-- 🌱 I’m currently learning **React**
-
-- 📫 How to reach me **dansulk@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
